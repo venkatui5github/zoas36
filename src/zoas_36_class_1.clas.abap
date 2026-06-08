@@ -1,0 +1,17 @@
+CLASS zoas_36_class_1 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  methods get_data.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zoas_36_class_1 IMPLEMENTATION.
+method get_data.
+endMETHOD.
+ENDCLASS.
